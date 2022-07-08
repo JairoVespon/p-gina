@@ -1,0 +1,24 @@
+#Horarios {
+    background: blue;
+    color: white;
+    text-align: center;
+}
+#Historia{
+    color: blue;
+}
+#pie{
+    color: white;
+    background-color: blue;
+}
+#demo {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+  }
+#Info {
+    text-align: center;
+    color: blue;
+}
+iframe{
+    width: 100%;
+}
